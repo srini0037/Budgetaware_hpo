@@ -1,0 +1,9 @@
+scikit-learn
+numpy
+pandas
+matplotlib
+optuna
+hyperopt
+faiss-cpu
+langchain
+openai
