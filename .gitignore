@@ -1,8 +1,6 @@
 .venv
 __pycache__/
-*.csv
 logs/
-results/
 *.png
 *.jpg
 *.jpeg

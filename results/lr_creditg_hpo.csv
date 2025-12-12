@@ -1,0 +1,2 @@
+dataset,model,hpo_f1_macro,best_params
+credit-g,logistic_regression,0.6945041927740889,"{'C': 0.09846738873614563, 'class_weight': None}"

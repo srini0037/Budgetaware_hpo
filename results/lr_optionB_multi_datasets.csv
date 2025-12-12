@@ -1,0 +1,4 @@
+dataset,model,baseline_f1_macro,hpo_f1_macro,improvement,best_params
+breast_cancer,logistic_regression,0.9811507936507937,0.9811507936507937,0.0,"{'C': 1.452824663751602, 'class_weight': None}"
+adult,logistic_regression,0.7850601570972016,0.7853951480194554,0.00033499092225386384,"{'C': 3.036799422352348, 'class_weight': None}"
+credit-g,logistic_regression,0.6361505966513521,0.6945041927740889,0.05835359612273683,"{'C': 0.09846738873614563, 'class_weight': None}"

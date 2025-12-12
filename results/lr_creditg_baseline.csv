@@ -1,0 +1,2 @@
+dataset,model,baseline_f1_macro
+credit-g,logistic_regression,0.6361505966513521
