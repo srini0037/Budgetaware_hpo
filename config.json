@@ -5,5 +5,14 @@
   "baseline_model": "LogisticRegression",
   "metrics": ["f1", "roc_auc"],
   "test_size": 0.2,
-  "random_state": 42
+  "random_state": 42,
+  "budget_levels": {
+    "very_low": 60,
+    "low": 120,
+    "medium": 300,
+    "high": 600,
+    "very_high": 1200
+  },
+  "avg_config_time": 18.1,
+  "avg_config_time_with_cv": 54.3
 }
