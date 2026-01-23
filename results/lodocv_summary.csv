@@ -1,0 +1,6 @@
+metric,value
+Mean Accuracy,0.55
+Std Accuracy,0.27386127875258304
+Min Accuracy,0.25
+Max Accuracy,1.0
+Baseline,0.45

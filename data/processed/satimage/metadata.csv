@@ -1,0 +1,2 @@
+dataset,train_samples,val_samples,test_samples,n_features,n_classes,subsampled
+satimage,3858,1286,1286,36,6,False

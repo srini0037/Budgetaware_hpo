@@ -1,0 +1,10 @@
+nn_time
+correlation_std
+pca_first_pc_variance
+budget_seconds
+pymfe_sparsity.mean
+pymfe_nr_cor_attr
+normalized_class_entropy
+kurtosis_min
+class_prob_min
+pca_95_percent_dims

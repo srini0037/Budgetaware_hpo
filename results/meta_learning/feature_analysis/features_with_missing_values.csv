@@ -1,0 +1,15 @@
+feature,n_missing,pct_missing
+pymfe_num_to_cat,40,100.0
+pymfe_sd_ratio,32,80.0
+pymfe_g_mean.mean,20,50.0
+pymfe_g_mean.sd,20,50.0
+pymfe_h_mean.mean,20,50.0
+pymfe_h_mean.sd,20,50.0
+pymfe_can_cor.sd,12,30.0
+pymfe_cor.mean,12,30.0
+pymfe_cor.sd,12,30.0
+pymfe_kurtosis.mean,12,30.0
+pymfe_kurtosis.sd,12,30.0
+pymfe_skewness.mean,12,30.0
+pymfe_skewness.sd,12,30.0
+class_imbalance_ratio,4,10.0

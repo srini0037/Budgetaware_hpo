@@ -1,0 +1,110 @@
+META-LEARNING DATASET SUMMARY
+============================================================
+
+Total samples: 40
+Datasets: 10
+Budget levels: 4
+Features: 95
+Sample-to-feature ratio: 0.42:1
+
+TARGET DISTRIBUTION:
+  random_search: 21 (52.5%)
+  hyperband: 15 (37.5%)
+  sha: 4 (10.0%)
+
+FEATURE LIST:
+   1. n_instances
+   2. n_features
+   3. n_classes
+   4. dimensionality
+   5. log_n_instances
+   6. log_n_features
+   7. log_dimensionality
+   8. class_prob_min
+   9. class_prob_max
+  10. class_prob_mean
+  11. class_prob_std
+  12. class_imbalance_ratio
+  13. skewness_min
+  14. skewness_max
+  15. skewness_mean
+  16. skewness_std
+  17. kurtosis_min
+  18. kurtosis_max
+  19. kurtosis_mean
+  20. kurtosis_std
+  21. correlation_min
+  22. correlation_max
+  23. correlation_mean
+  24. correlation_std
+  25. class_entropy
+  26. normalized_class_entropy
+  27. pca_first_pc_variance
+  28. pca_95_percent_dims
+  29. pca_95_percent_ratio
+  30. tree_time
+  31. tree_depth
+  32. tree_n_leaves
+  33. nn_time
+  34. nb_time
+  35. pymfe_attr_to_inst
+  36. pymfe_can_cor.mean
+  37. pymfe_can_cor.sd
+  38. pymfe_cat_to_num
+  39. pymfe_cor.mean
+  40. pymfe_cor.sd
+  41. pymfe_cov.mean
+  42. pymfe_cov.sd
+  43. pymfe_eigenvalues.mean
+  44. pymfe_eigenvalues.sd
+  45. pymfe_freq_class.mean
+  46. pymfe_freq_class.sd
+  47. pymfe_g_mean.mean
+  48. pymfe_g_mean.sd
+  49. pymfe_gravity
+  50. pymfe_h_mean.mean
+  51. pymfe_h_mean.sd
+  52. pymfe_inst_to_attr
+  53. pymfe_iq_range.mean
+  54. pymfe_iq_range.sd
+  55. pymfe_kurtosis.mean
+  56. pymfe_kurtosis.sd
+  57. pymfe_lh_trace
+  58. pymfe_mad.mean
+  59. pymfe_mad.sd
+  60. pymfe_max.mean
+  61. pymfe_max.sd
+  62. pymfe_mean.mean
+  63. pymfe_mean.sd
+  64. pymfe_median.mean
+  65. pymfe_median.sd
+  66. pymfe_min.mean
+  67. pymfe_min.sd
+  68. pymfe_nr_attr
+  69. pymfe_nr_bin
+  70. pymfe_nr_cat
+  71. pymfe_nr_class
+  72. pymfe_nr_cor_attr
+  73. pymfe_nr_disc
+  74. pymfe_nr_inst
+  75. pymfe_nr_norm
+  76. pymfe_nr_num
+  77. pymfe_nr_outliers
+  78. pymfe_num_to_cat
+  79. pymfe_p_trace
+  80. pymfe_range.mean
+  81. pymfe_range.sd
+  82. pymfe_roy_root
+  83. pymfe_sd.mean
+  84. pymfe_sd.sd
+  85. pymfe_sd_ratio
+  86. pymfe_skewness.mean
+  87. pymfe_skewness.sd
+  88. pymfe_sparsity.mean
+  89. pymfe_sparsity.sd
+  90. pymfe_t_mean.mean
+  91. pymfe_t_mean.sd
+  92. pymfe_var.mean
+  93. pymfe_var.sd
+  94. pymfe_w_lambda
+  95. budget_seconds

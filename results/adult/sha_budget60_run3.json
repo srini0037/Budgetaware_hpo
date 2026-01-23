@@ -1,0 +1,10 @@
+{
+  "method": "sha",
+  "best_val_score": 0.774306616202549,
+  "time_taken": 63.312670946121216,
+  "dataset": "adult",
+  "budget_level": "very_low",
+  "budget_seconds": 60,
+  "run_id": 3,
+  "timestamp": "2026-01-07T11:43:20.424888"
+}

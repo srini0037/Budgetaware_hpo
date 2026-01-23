@@ -1,0 +1,19 @@
+{
+  "dataset": "covertype",
+  "method": "hyperband",
+  "date": "2025-12-25 12:36:05",
+  "best_score": 0.8727364371285934,
+  "configs_evaluated": 206,
+  "total_time_seconds": 494.7399790287018,
+  "best_config": {
+    "hidden_layer_sizes": "(116, 259, 95)",
+    "activation": "tanh",
+    "solver": "adam",
+    "alpha": "0.00027259570488890006",
+    "learning_rate_init": "0.004680796301594411",
+    "batch_size": "128",
+    "early_stopping": "True",
+    "validation_fraction": "0.1",
+    "n_iter_no_change": "10"
+  }
+}

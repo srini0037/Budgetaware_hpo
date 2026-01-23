@@ -1,0 +1,11 @@
+{
+  "method": "random_search",
+  "best_val_score": 0.774306616202549,
+  "n_configs_tried": 24,
+  "time_taken": 62.7550790309906,
+  "dataset": "adult",
+  "budget_level": "very_low",
+  "budget_seconds": 60,
+  "run_id": 3,
+  "timestamp": "2026-01-07T11:32:13.757710"
+}

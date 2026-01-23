@@ -1,0 +1,4 @@
+approach,n_features,accuracy,sample_to_feature_ratio
+All Features,35,0.95,0.5714285714285714
+Top-10 Features,10,0.95,2.0
+Baseline,0,0.45,inf

@@ -1,0 +1,2 @@
+dataset,train_samples,val_samples,test_samples,n_features,n_classes,subsampled
+pendigits,6594,2199,2199,16,10,True

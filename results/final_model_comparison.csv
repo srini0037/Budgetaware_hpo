@@ -1,0 +1,4 @@
+approach,accuracy,std
+Training (95% accuracy),0.95,0.0
+Cross-Validation (LODOCV),0.55,0.27386127875258304
+Baseline,0.45,0.0

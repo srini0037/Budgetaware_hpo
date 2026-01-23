@@ -1,0 +1,2 @@
+dataset,train_samples,val_samples,test_samples,n_features,n_classes,subsampled
+adult,29304,9769,9769,14,2,True

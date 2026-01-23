@@ -1,0 +1,6 @@
+test_dataset,accuracy,n_train,n_test,correct,total
+adult,0.25,16,4,1,4
+fashion_mnist,0.5,16,4,2,4
+mnist,1.0,16,4,4,4
+letter,0.5,16,4,2,4
+covertype,0.5,16,4,2,4

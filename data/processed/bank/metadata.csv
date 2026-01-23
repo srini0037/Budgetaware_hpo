@@ -1,0 +1,2 @@
+dataset,train_samples,val_samples,test_samples,n_features,n_classes,subsampled
+bank,27126,9042,9043,16,2,False
